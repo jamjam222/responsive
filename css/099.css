@@ -60,7 +60,7 @@ header .inner .pc .gnb .depth01 .depth02 li {
         height: 100vh;
         width: calc(60%);
         position: fixed;
-        right: 0;
+        right: -100%;
         top: 0;
         background-color: rgba(124, 181, 255, 0.726);
         color: #fff;
